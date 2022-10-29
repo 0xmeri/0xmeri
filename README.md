@@ -12,7 +12,7 @@ I am trying to be Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read book in the garden and blockchain tech articles.
+- :zap: In my spare time I read books and research the blockchain. 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
