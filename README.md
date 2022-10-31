@@ -13,8 +13,7 @@ I am trying to be Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my spare time I read books and research the blockchain. 
-- 
-- Interests : 
+- Interests :
   Web3 Data, Analytics, Dune Analytics,
   SQL, JS, Etherscan, 
   Ethereum, Web3, Bitcoin. 
